@@ -126,7 +126,7 @@ Este proyecto se publica bajo **MIT License**. Consulta el fichero `LICENSE` par
 
 ---
 
-## 👤 Autor
+## ✍️ Autor
 
 **Alex Rosell** — Técnico en Ciberseguridad y Administración de Sistemas.  
 Contacto: enlace a tu perfil (LinkedIn / GitHub).
